@@ -39,11 +39,11 @@
 
  .jumbo {
    background-color: black;
+   position: relative;
    width: 100vw;
    height: 1030px;
    font-size: 20px;
    margin: 60px 60px 0px 0px;
-
    color: aliceblue;
  }
 
@@ -87,7 +87,8 @@
  }
 
  .footer {
-   height: 120px;
+   height: 200px;
+   width: 100vw;
    position: relative;
    background-color: #11110a;
    background-size: cover;
