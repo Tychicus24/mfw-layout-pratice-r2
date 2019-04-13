@@ -1,0 +1,96 @@
+ .body {
+   margin: 0 auto;
+   padding: 0 auto;
+ }
+
+ .container-fluid {
+   margin: 0 auto;
+ }
+
+ .container {
+   width: 100vw;
+   padding: 60px;
+   /* margin-right: 60px; */
+ }
+
+ .top {
+   width: 100vw;
+   margin-right: 60px;
+ }
+
+ .brand {
+   background-color: black;
+   /* width: 12%; */
+   height: 160px;
+   margin-bottom: 40px;
+   font-size: 20px;
+   color: aliceblue;
+ }
+
+ .nav {
+   background-color: black;
+   /* width: 12%; */
+   height: 60px;
+   font-size: 20px;
+   color: aliceblue;
+   margin-top: 45px;
+   margin-right: 60px;
+ }
+
+ .jumbo {
+   background-color: black;
+   width: 100vw;
+   height: 1030px;
+   font-size: 20px;
+   margin: 60px 60px 0px 0px;
+
+   color: aliceblue;
+ }
+
+ .dropdown {
+   background-color: black;
+   /* width: 24%; */
+   height: 60px;
+   font-size: 20px;
+   color: aliceblue;
+   margin-top: 120px;
+ }
+
+ .section1,
+ .section2 {
+   margin-bottom: 85px;
+   width: 100vw;
+ }
+
+ .content1a,
+ .content2a {
+   background-color: black;
+   /* width: 48%; */
+   height: 450px;
+   font-size: 20px;
+   margin-top: 60px;
+   /* margin-right: 80px; */
+   color: aliceblue;
+ }
+
+ .content1b,
+ .content2b,
+ .content1c,
+ .content2c {
+   background-color: black;
+   width: 20%;
+   height: 450px;
+   font-size: 20px;
+   margin-top: 60px;
+   margin-left: 80px;
+   color: aliceblue;
+ }
+
+ .footer {
+   height: 120px;
+   position: relative;
+   background-color: #11110a;
+   background-size: cover;
+   background-position: center;
+   border-radius: 3px;
+ }
